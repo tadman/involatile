@@ -1,0 +1,16 @@
+=============================================================================
+ Involatile
+ ---------------------------------------------------------------------------
+ Data Exchange and Persistence Mechanism =============================================================================
+ 
+Involatile aims to be a practical, intuitive framework for data exchange and
+persistance between application layers and a back-end storage facility.
+
+Modern web-based applications need an Object-Relational Mapping System that
+is robust, flexible, high-performance, and multi-platform. To that end,
+Involatile strives to support both Ruby and JavaScript bindings, as well
+as MySQL, Postgres, SQLite and SimpleDB database platforms.
+
+Future Home Page: 
+
+  http://involatile.org/
