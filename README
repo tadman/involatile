@@ -1,7 +1,8 @@
 =============================================================================
  Involatile
  ---------------------------------------------------------------------------
- Data Exchange and Persistence Mechanism =============================================================================
+ Data Exchange and Persistence Mechanism
+=============================================================================
  
 Involatile aims to be a practical, intuitive framework for data exchange and
 persistance between application layers and a back-end storage facility.
